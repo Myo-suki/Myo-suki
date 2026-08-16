@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<defs>
+ <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#fffdfc" stroke-opacity=".035"/></pattern>
+ <radialGradient id="glow"><stop stop-color="#d7a6b3" stop-opacity=".18"/><stop offset="1" stop-color="#090909" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="520" rx="18" fill="#090909"/>
+<rect width="1200" height="520" rx="18" fill="url(#grid)"/>
+<circle cx="930" cy="150" r="300" fill="url(#glow)"/>
+<rect x="42" y="38" width="34" height="34" fill="#d7a6b3" stroke="#c5a45d"/><text x="59" y="62" text-anchor="middle" font-family="Arial" font-weight="700" font-size="18" fill="#090909">Y</text>
+<text x="88" y="61" font-family="monospace" font-size="18" font-weight="700" fill="#fffdfc">YUKI-bad</text>
+<circle cx="1025" cy="55" r="5" fill="#d7a6b3"/><text x="1040" y="60" font-family="monospace" font-size="12" fill="#aaa4a5">HEIST ACTIVE</text>
+<text x="62" y="155" font-family="monospace" font-size="13" letter-spacing="3" fill="#c5a45d">YORKIE SAUSAGE RECOVERY UNIT</text>
+<text x="62" y="220" font-family="Arial" font-size="60" font-weight="700" fill="#fffdfc">Catch Yuki.</text>
+<text x="62" y="282" font-family="Arial" font-size="60" font-weight="700" fill="#d7a6b3">Save the sausage.</text>
+<text x="65" y="330" font-family="monospace" font-size="14" fill="#aaa4a5">Nine holes. One tiny criminal. Absolutely no remorse.</text>
+<rect x="64" y="372" width="188" height="54" rx="3" fill="#d7a6b3" stroke="#c5a45d"/>
+<text x="158" y="406" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="2" fill="#090909">PLAY NOW →</text>
+<g transform="translate(805 130)">
+ <ellipse cx="145" cy="290" rx="150" ry="38" fill="#030303" stroke="#c5a45d" stroke-opacity=".5" stroke-width="3"/>
+ <g transform="translate(35 5) scale(1.5)">
+  <path d="M34 47 18 9 56 30M116 47l16-38-38 21" fill="#8b6b50" stroke="#c5a45d" stroke-width="2"/>
+  <path d="M27 19 39 43 51 34M123 19 111 43 99 34" fill="#d7a6b3" opacity=".8"/>
+  <path d="M33 48Q39 23 75 25t42 23v31q-6 34-42 37-36-3-42-37Z" fill="#b89573" stroke="#c5a45d" stroke-width="2"/>
+  <path d="M39 45q8-20 22-12l-4 59-20-13ZM111 45q-8-20-22-12l4 59 20-13Z" fill="#6e5542"/>
+  <path d="M57 29q18-15 36 0l-7 59H64Z" fill="#d9bd94"/>
+  <circle cx="57" cy="67" r="5" fill="#090909"/><circle cx="94" cy="67" r="5" fill="#090909"/>
+  <circle cx="55" cy="65" r="1.5" fill="#fffdfc"/><circle cx="92" cy="65" r="1.5" fill="#fffdfc"/>
+  <path d="M61 82q14-12 29 0l-4 15H65Z" fill="#ead4b4"/><path d="M67 83q8-7 16 0-2 8-8 8t-8-8" fill="#090909"/>
+  <g transform="translate(0 2)"><rect x="74" y="93" width="92" height="13" rx="6.5" fill="#c96f69" stroke="#fffdfc" stroke-width="1.5"/><path d="m163 96 8-5m-8 12 8 5" stroke="#c5a45d" stroke-width="2"/></g>
+ </g>
+</g>
+<rect x=".75" y=".75" width="1198.5" height="518.5" rx="17.25" fill="none" stroke="#c5a45d" stroke-opacity=".4" stroke-width="1.5"/>
+</svg>
