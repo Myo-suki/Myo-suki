@@ -2,7 +2,7 @@
 
 # Myo
 
-Creative technologist · product builder · visual designer
+•••••••••••••••••••••
 
 <br>
 
