@@ -16,6 +16,6 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Myo-suki/Myo-suki/main/assets/myo-keyboard.svg" alt="Animated white gamer keyboard lighting up MYO in gold" width="100%">
+<img src="https://raw.githubusercontent.com/Myo-suki/Myo-suki/main/assets/myo-keyboard.svg?v=20260817-3" alt="Animated white RGB gamer keyboard lighting M, Y and O in sequence" width="100%">
 
 </div>
