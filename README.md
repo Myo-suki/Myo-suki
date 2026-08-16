@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Myo-suki/Myo-suki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Myo
 
-Here are some ideas to get you started:
+Creative technologist · product builder · visual designer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<a href="https://myo-suki.github.io/YUKI-bad/">
+  <img src="https://raw.githubusercontent.com/Myo-suki/Myo-suki/main/assets/yuki-bad-preview.svg" alt="Play YUKI-bad — catch Yuki and save the sausage" width="100%">
+</a>
+
+<br><br>
+
+[**PLAY YUKI-bad →**](https://myo-suki.github.io/YUKI-bad/)&nbsp;&nbsp;·&nbsp;&nbsp;[View source](https://github.com/Myo-suki/YUKI-bad)
+
+</div>
